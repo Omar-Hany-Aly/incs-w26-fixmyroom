@@ -1,0 +1,5 @@
+@startuml
+' State machine: <entity>
+' Rename to the entity (e.g. state-machine-loan.puml).
+
+@enduml
