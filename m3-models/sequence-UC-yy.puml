@@ -1,0 +1,5 @@
+@startuml
+' Sequence diagram: UC-yy <name>, main success scenario (the second use case)
+' Rename to the use case ID (e.g. sequence-UC-04.puml); M3 needs two: this one and sequence-UC-xx.puml.
+
+@enduml
